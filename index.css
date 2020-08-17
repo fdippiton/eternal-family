@@ -96,7 +96,7 @@ h3 {
 
     .illustration img {
         max-width: -webkit-fill-available;
-        height: 100vh;
+        /* height: 100vh; */
         box-shadow: none;
     }
 
