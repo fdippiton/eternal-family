@@ -80,6 +80,7 @@ h3 {
     .container {
         display: flex;
         flex-direction: column;
+        position: relative;
     }
 
     .big_img {
@@ -90,6 +91,7 @@ h3 {
         padding: 0px;
         text-align: center;
         width: auto;
+        position: relative;
     }
 
     .illustration img {
@@ -103,6 +105,7 @@ h3 {
         justify-content: center;
         width: auto;
         padding: 41px;
+        position: relative;
     }
 
     h2, h3 {
